@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+
+<HTML>
+        <HEAD>
+                <TITLE> Mis gustos </TITLE>
+        </HEAD>
+
+          <BODY>
+            <table width=50% border=CELL PADDING=10 CELLSPACING=0 bordercolor="black">
+                <th bgcolor=#BD3AE7><font size ="3", color ="ffffff">Comida </font></th>
+                <th bgcolor=#BD3AE7><font size ="3", color ="ffffff">Genero de musica</font></th>
+                <th bgcolor=#BD3AE7><font size ="3", color ="ffffff">Tiempo libre</font></th>
+                <th bgcolor=#BD3AE7><font size ="3", color ="ffffff">Entretenimiento cinematografico</font></th>
+
+            <tr bgcolor=#F0D9F7>
+                <td align = center><b>Comida china</b></td>
+                <td align = center><b>Chill</b></td>
+                <td align = center><b>Ver directos</b></td>
+                <td align = center><b>Bob esponja</b></td>
+            </tr>
+            <tr bgcolor=#E1A1F6>
+                <td align = center><b>Chilaquiles</b></td>
+                <td align = center><b>Música electrónica</b></td>
+                <td align = center><b>Ver redes sociales</b></td>
+                <td align = center><b>Jovenes titanes</b></td>
+            </tr>
+            <tr bgcolor=F0D9F7>
+                <td align = center><b>Enchiladas</b></td>
+                <td align = center><b>Rock</b></td>
+                <td align = center><b>Ver videos de YT</b></td>
+                <td align = center><b>Peliculas romanticas</b></td>
+            </tr>
+            <tr bgcolor=#E1A1F6>
+                <td align = center><b>Las gomitas</b></td>
+                <td align = center><b>Jazz</b></td>
+                <td align = center><b>Dormir</b></td>
+                <td align = center><b>Peliculas de terror</b></td>
+            </tr>
+            <tr bgcolor=F0D9F7>
+                <td align = center><b>Pizza con piña</b></td>
+                <td align = center><b>Dubstep</b></td>
+                <td align = center><b>Experimentar con maquillaje</b></td>
+                <td align = center><b>Peliculas de accion</b></td>
+            </tr>
+            <tr bgcolor=#E1A1F6>
+                <td align = center><b>Hambuerguesas</b></td>
+                <td align = center><b>Country</b></td>
+                <td align = center><b>Pasear a mis perros</b></td>
+                <td align = center><b>Universo Marvel</b></td>
+            </tr>
+            <tr bgcolor=F0D9F7>
+                <td align = center><b>Birria</b></td>
+                <td align = center><b>Techno</b></td>
+                <td align = center><b>Jugar con mis cuyos</b></td>
+                <td align = center><b>Steven Universe</b></td>
+            </tr>
+            <tr bgcolor=#E1A1F6>
+                <td align = center><b>Tacos</b></td>
+                <td align = center><b>Indie</b></td>
+                <td align = center><b>Escuchar musica</b></td>
+                <td align = center><b>Escandalosos</b></td>
+            </tr>
+            <tr bgcolor=F0D9F7>
+                <td align = center><b>Quesadillas con mucho queso</b></td>
+                <td align = center><b>Pop</b></td>
+                <td align = center><b>Ver caricaturas</b></td>
+                <td align = center><b>La rosa de Guadalupe</b></td>
+            </tr>
+            <tr bgcolor=#E1A1F6>
+                <td align = center><b>Hot Cakes</b></td>
+                <td align = center><b>Hip-Hop</b></td>
+                <td align = center><b>Aprendo a tocar el Ukele</b></td>
+                <td align = center><b>Los Simpson</b></td>
+            </tr>
+        </table>
+    </BODY>
+</HTML>
